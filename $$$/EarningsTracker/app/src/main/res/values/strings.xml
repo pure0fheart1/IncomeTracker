@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Earnings Tracker</string>
+    <string name="hourly_wage">Hourly Wage</string>
+    <string name="enter_hourly_wage">Enter your hourly wage</string>
+    <string name="save">Save</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="earnings">Earnings</string>
+    <string name="timer">Timer</string>
+    <string name="history">History</string>
+    <string name="total_time_worked">Total Time Worked</string>
+    <string name="total_earnings">Total Earnings</string>
+    <string name="save_session">Save Session</string>
+    <string name="discard_session">Discard</string>
+    <string name="session_summary">Session Summary</string>
+    <string name="session_history">Session History</string>
+    <string name="empty_history">No past sessions found</string>
+    <string name="date">Date</string>
+    <string name="duration">Duration</string>
+    <string name="dollar_sign">$</string>
+    <string name="invalid_wage">Please enter a valid hourly wage greater than zero</string>
+    <string name="settings">Settings</string>
+</resources> 
